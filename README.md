@@ -13,6 +13,6 @@ Download the **RhubarbLibrary** binary for your **OS** [here](https://github.com
 
 Start the development server with
 ```
-yarn
-yarn dev
+npm install
+npm run dev
 ```
